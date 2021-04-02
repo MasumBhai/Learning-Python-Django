@@ -1,0 +1,35 @@
+
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
+^
+..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+django_Learing/__init__.py,d\5\d5222a9f95776f42877d61bc41894d9cec403cc8
+Q
+!Hero_Masum/migrations/__init__.py,0\3\038d82933ee470ac63ada51e6df3013f6a756142
+F
+Hero_Masum/__init__.py,c\2\c27220bb6e6503e76549303d8eeed2a0dbeaf5e7
+C
+Hero_Masum/admin.py,e\4\e408d26536e93f27353cab5880d03409d9fe7716
+B
+Hero_Masum/apps.py,f\9\f9075016c213d1fd4e5cf43d916c5929141f579d
+F
+django_Learing/asgi.py,2\d\2d252102923218f5884195d763f21328f3546f7a
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+D
+Hero_Masum/models.py,a\6\a6754d217f665b49ffcec39626c9429989e5ec3c
+J
+django_Learing/settings.py,4\0\4026886373c129e38944195c0e5db9fbc79afe78
+C
+Hero_Masum/tests.py,f\d\fd0ca097573aebd6a024420eefbf518007455d3a
+F
+django_Learing/urls.py,8\b\8b3890e87f4d13792b4bed4525bf519e3ef11bb6
+B
+Hero_Masum/urls.py,e\3\e3bbeae195d93a41256107d53c91dea8fe8fa2f9
+C
+Hero_Masum/views.py,9\1\913a664a7f5fe8b0b87959a36865abc815fad30c
+F
+django_Learing/wsgi.py,7\f\7f8b2094fdf8f4b74effdb5251432869bf7065b2
