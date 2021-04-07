@@ -33,3 +33,5 @@ C
 Hero_Masum/views.py,9\1\913a664a7f5fe8b0b87959a36865abc815fad30c
 F
 django_Learing/wsgi.py,7\f\7f8b2094fdf8f4b74effdb5251432869bf7065b2
+U
+%Hero_Masum/migrations/0001_initial.py,a\1\a182a5c8f965653bf17e4fa2d9d33a58d9235f23
