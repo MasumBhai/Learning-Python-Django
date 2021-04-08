@@ -3,10 +3,16 @@
 
 {% block content %}
     <h2>{{ ls.name }}</h2>
-    <ul>
-    {% for li in ls.item_set.all %}
-        <li>{{ li.text }}</li>
-    {% endfor %}
-    </ul>
+    <form action="#" method="post">
+        {% csrf_token %}
+        <ul>
+            {% for li in ls.item_set.all %}
+                <li><input type="checkbox" value="clicked" name="c{{ li.id }}" checked>{{ li.text }}</li>
+            {% endfor %}
+        </ul>
+        <button type="submit" name="save" value="save">Save</button>
+        <input type="text" name="new">
+        <button type="submit" name="newItem" value="newItem">Add Item</button>
+    </form>
 {% endblock %}
 

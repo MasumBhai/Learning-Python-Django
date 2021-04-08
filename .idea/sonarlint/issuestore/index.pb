@@ -35,3 +35,13 @@ F
 django_Learing/wsgi.py,7\f\7f8b2094fdf8f4b74effdb5251432869bf7065b2
 U
 %Hero_Masum/migrations/0001_initial.py,a\1\a182a5c8f965653bf17e4fa2d9d33a58d9235f23
+N
+templates/Hero_Masum/base.html,d\e\de9cda4c30ef034b4d5824135ab9ac30c4d3d2fb
+N
+templates/Hero_Masum/home.html,6\4\6448315846f87577cb547f2cf136b973d9b37ef7
+R
+"templates/Hero_Masum/todoList.html,e\6\e64d6050be7d7614b350636e1cccb7ca3898efcb
+P
+ templates/Hero_Masum/create.html,6\8\681854ea6f14efe3e8288d78d24c511194175065
+C
+Hero_Masum/forms.py,a\f\afde74465837c50d5eb9323747f48c1d8f73b52a
